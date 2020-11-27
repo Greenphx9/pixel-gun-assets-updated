@@ -5,6 +5,4 @@ Version: 19.1.0
 
 Platform Extracted From: iOS
 
-Textures SHOULD be out today, was going to upload them yesterday but Pixel Gun pushed an updated out
-
-I hope this isn't bannable, it shouldn't be, right?
+Also, idk why but when I upload files via Github desktop it says uploaded by BuildTools.
